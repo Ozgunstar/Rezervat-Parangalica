@@ -1,0 +1,332 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+#header
+{
+    width: 100%;
+    height: 60px;
+    background-color: #66B2FF;
+    border: 1px solid black;
+    padding: 20px;
+}
+#nav
+{
+    width: 100%;
+    height: 30px;
+    background-color: #66B2FF;
+    margin: 0;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#section
+{
+    width: 100%;
+    height: 2140px;
+    background-color: #CCE5FF; 
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+}    
+.horizontal
+{
+    width: 36%;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #66B2FF;
+}
+.horizontal ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0 auto;
+}
+.horizontal li
+{
+    float: left;
+    padding-right: 30px;
+
+}
+.horizontal a
+{
+    font-size: 23px;
+    color: black;
+    display: block; 
+    border-right:1px solid #66B2FF;
+    text-align: center;
+}
+a:link 
+{
+    text-decoration: none;
+}
+a:hover 
+{
+    background-color: blue;
+    color: white;
+}
+h1
+{
+    text-align: center;
+    
+}
+#paragraf1
+{
+    font-size: 29px;
+    text-align: left;
+}
+
+#zaglavie1
+{
+    text-align: left;
+    font-size: 33px;
+}
+#paragraf2
+{
+    font-size: 20px;
+    text-align: left;
+
+}
+#podtochka1
+{
+    font-size: 20px;
+    text-align: left;
+}
+ul
+{
+    font-size: 20px;
+    text-align: left;
+}
+#snimka99
+{
+    width: 350px;
+}
+#snimka98
+{
+   width: 350px;
+}
+#blockSnimka
+{
+    width: 350px;
+    height: 280px;
+    float: right;
+    background-color: #CCE5FF;
+}
+
+#block1
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block2
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block3
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block4
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block5
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block6
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block7
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block8
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block9
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block10
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block11
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#block12
+{
+    width:400px;
+    height:400px;
+    background-color: #CCE5FF;
+    float: left;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin:20px;
+}
+#snimka1
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka2
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka3
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka4
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka5
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka6
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka7
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka8
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka9
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka10
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka11
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka12
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+
+#zaglavie2
+{
+    text-align: center;
+    padding: 10px;
+}
+#malkozaglavie2
+{
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+}
+#malkozaglavie1
+{
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+}
+ol
+{
+    font-size: 23px;
+    text-align: left;
+}

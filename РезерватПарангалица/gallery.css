@@ -1,0 +1,247 @@
+#header
+{
+    width: 100%;
+    height: 60px;
+    background-color: aqua; 
+}
+#nav
+{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(238, 0, 255); 
+}
+#section
+{
+    width: 100%;
+    height: 1420px;
+    background-color: rgb(0, 255, 123); 
+}    
+.horizontal
+{
+    width: 36%;
+    height: 30px;
+    margin: 0 auto;
+    background-color: pink;
+}
+.horizontal ul
+{
+    list-style-type: none;
+}
+.horizontal li
+{
+    float: left;
+    padding-right: 30px;
+}
+.horizontal a
+{
+    font-size: 23px;
+    color: black;
+    display: block; 
+    border-right: 2px solid white;
+}
+a:link 
+{
+    text-decoration: none;
+}
+a:hover 
+{
+    background-color: blue;
+    color: white;
+}
+h1
+{
+    text-align: center;
+    padding: 10px;
+}
+#block1
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block2
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block3
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block4
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block5
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block6
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block7
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block8
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block9
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block10
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block11
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#block12
+{
+    width:400px;
+    height:400px;
+    background-color: white;
+    float: left;
+    border: 5px solid blue;
+    border-radius: 30px;
+    margin:20px;
+}
+#snimka1
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka2
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka3
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka4
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka5
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka6
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka7
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka8
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka9
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka10
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka11
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
+#snimka12
+{
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+}
